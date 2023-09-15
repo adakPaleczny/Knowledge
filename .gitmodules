@@ -1,0 +1,3 @@
+[submodule "Bash/Bind-device-port-name-script"]
+	path = Bash/Bind-device-port-name-script
+	url = https://github.com/adakPaleczny/Bind-device-port-name-script
